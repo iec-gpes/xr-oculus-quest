@@ -11,14 +11,14 @@ Oculus Quest Development Tutorials
 
 #### 2. Desenvolvimento
 
-#### 2.1. Oculus Quest Development from Meta SDK
-- ##### - [Tutorial](https://gist.github.com/iec-gpes/)
+##### 2.1. Oculus Quest Development from Meta SDK
+ - [Tutorial](https://gist.github.com/iec-gpes/)
   
-#### 2.2. Oculus Quest Development from Unity
--  ##### - [Tutorial](https://gist.github.com/iec-gpes/)
+##### 2.2. Oculus Quest Development from Unity
+ - [Tutorial](https://gist.github.com/iec-gpes/)
 
-#### 2.3. Oculus Quest Development from StellarX
--  ##### - [Tutorial](https://gist.github.com/iec-gpes/)
+##### 2.3. Oculus Quest Development from StellarX
+ - [Tutorial](https://gist.github.com/iec-gpes/)
  
   
 
