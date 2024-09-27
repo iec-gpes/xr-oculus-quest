@@ -2,11 +2,11 @@
 Oculus Quest Development Tutorials
 
 #### 1. Setup
-- ##### 1.1. [Introdução](https://gist.github.com/iec-gpes/)
-- ##### 1.2. [Instalação](https://gist.github.com/iec-gpes/)
-- ##### 1.3. [Criação de Conta na Meta](https://gist.github.com/iec-gpes/)
-- ##### 1.4. [Configuração Meta Quest 3](https://gist.github.com/iec-gpes/)
-- ##### 1.5. [Mudança do Status da Conta para Conta de Desenvolvedor](https://gist.github.com/iec-gpes/)
+##### 1.1. [Introdução](https://gist.github.com/iec-gpes/)
+##### 1.2. [Instalação](https://gist.github.com/iec-gpes/)
+##### 1.3. [Criação de Conta na Meta](https://gist.github.com/iec-gpes/)
+##### 1.4. [Configuração Meta Quest 3](https://gist.github.com/iec-gpes/)
+##### 1.5. [Mudança do Status da Conta para Conta de Desenvolvedor](https://gist.github.com/iec-gpes/)
 
 
 #### 2. Desenvolvimento
