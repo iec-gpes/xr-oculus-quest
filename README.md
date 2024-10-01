@@ -3,7 +3,7 @@ Oculus Quest Development Tutorials
 
 #### 1. Setup
 
-    1.1. [Introdução](https://gist.github.com/iec-gpes/)
+##### 1.1. [Introdução](https://gist.github.com/iec-gpes/)
 
     1.2. [Instalação](https://gist.github.com/iec-gpes/)
 
