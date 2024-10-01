@@ -30,7 +30,7 @@ uma opção de desenvolvimento _no-code_.
 
 ##### 2.3. Oculus Quest Development from StellarX
 
-- [Tutorial] (https://gist.github.com/iec-gpes/)
+- [Tutorial](https://gist.github.com/iec-gpes/)
 
 
 #### 3. Referências
@@ -45,7 +45,7 @@ uma opção de desenvolvimento _no-code_.
 
 ##### [Criar ou transformar conta em conta de desenvolvedor](https://developers.facebook.com/docs/development/register?locale=pt_BR)
 
-##### [StellarX] (https://www.stellarx.ai/)
+##### [StellarX](https://www.stellarx.ai/)
 
 
  
