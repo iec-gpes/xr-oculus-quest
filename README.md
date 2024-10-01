@@ -1,19 +1,26 @@
 # xr-oculus-quest
 Oculus Quest Development Tutorials
 
+Este repositório, por meio de tutoriais, apresenta os passos necessários para a execução de uma aplicação em Realidade Virtual (Virtual Reality - VR) nos óculos Meta Quest 3.
+
+Os seguintes tópicos serão cobertos:
+
+    - Requisitos de sistema e hardware;
+    - Configuração do dispositivo; e
+    - Configuração do software de desenvolvimento Android.
+
+
 #### 1. Setup
 
-Nas próximas cinco seções, apresentam-se, sequencialmente, as etapdas de configuração do Meta Quest 3, a fim de propiciar o desenvolvimento de aplicativos em realidade estendida.
+Nas próximas quatro seções, apresentam-se, sequencialmente, as etapdas de configuração do Meta Quest 3, a fim de propiciar o desenvolvimento de aplicativos em realidade estendida.
 
-##### 1.1. [Introdução](https://gist.github.com/iec-gpes/18cad76f693f8979c8813351e574d787)
+##### 1.1. [Instalação](https://gist.github.com/iec-gpes/e198422dac1f6504b2bdca6f7fae6679)
 
-##### 1.2. [Instalação](https://gist.github.com/iec-gpes/e198422dac1f6504b2bdca6f7fae6679)
+##### 1.2. [Criação de Conta na Meta](https://gist.github.com/iec-gpes/81af1a3191f7c6b9eb1b12bde42b8057)
 
-##### 1.3. [Criação de Conta na Meta](https://gist.github.com/iec-gpes/81af1a3191f7c6b9eb1b12bde42b8057)
+##### 1.3. [Configuração do Meta Quest 3](https://gist.github.com/iec-gpes/ba0d314ea1771d14bae7fe93be860cb8)
 
-#####  1.4. [Configuração do Meta Quest 3](https://gist.github.com/iec-gpes/ba0d314ea1771d14bae7fe93be860cb8)
-
-#####  1.5. [Mudança do Status da Conta para Conta de Desenvolvedor](https://gist.github.com/iec-gpes/0e3e2fe9a0f4e020434221024d641ee9)
+##### 1.4. [Mudança do Status da Conta para Conta de Desenvolvedor](https://gist.github.com/iec-gpes/0e3e2fe9a0f4e020434221024d641ee9)
 
 #### 2. Desenvolvimento
 
