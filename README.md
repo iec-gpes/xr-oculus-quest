@@ -35,11 +35,12 @@ uma opção de desenvolvimento _no-code_.
  
 ##### 2.2. Oculus Quest Development from Unity
 
-- [Tutorial](https://gist.github.com/iec-gpes/)
+- [Tutorial](https://gist.github.com/iec-gpes/ffa3068ed44754ebe81968e23f00e0bb)
+
 
 ##### 2.3. Oculus Quest Development from StellarX
 
-- [Tutorial](https://gist.github.com/iec-gpes/)
+- [Tutorial](https://gist.github.com/iec-gpes/c0b978322a4b34ea0241d0bb1d060193)
 
 
 #### 3. Referências
