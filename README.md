@@ -1,13 +1,15 @@
-# xr-oculus-quest
+## xr-oculus-quest
 Oculus Quest Development Tutorials
 
 Este repositório, por meio de tutoriais, apresenta os passos necessários para a execução de uma aplicação em Realidade Virtual (Virtual Reality - VR) nos óculos Meta Quest 3.
 
 Os seguintes tópicos serão cobertos:
 
-    - Requisitos de sistema e hardware;
-    - Configuração do dispositivo; e
-    - Configuração do software de desenvolvimento Android.
+- Requisitos de sistema e hardware;
+
+- Configuração do dispositivo; e
+
+- Configuração do software de desenvolvimento Android.
 
 
 #### 1. Setup
