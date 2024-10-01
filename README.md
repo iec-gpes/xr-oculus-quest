@@ -5,15 +5,15 @@ Oculus Quest Development Tutorials
 
 Nas próximas cinco seções, apresentam-se, sequencialmente, as etapdas de configuração do Meta Quest 3, a fim de propiciar o desenvolvimento de aplicativos em realidade estendida.
 
-##### 1.1. [Introdução](https://gist.github.com/iec-gpes/)
+##### 1.1. [Introdução](https://gist.github.com/iec-gpes/18cad76f693f8979c8813351e574d787)
 
-##### 1.2. [Instalação](https://gist.github.com/iec-gpes/)
+##### 1.2. [Instalação](https://gist.github.com/iec-gpes/e198422dac1f6504b2bdca6f7fae6679)
 
-##### 1.3. [Criação de Conta na Meta](https://gist.github.com/iec-gpes/)
+##### 1.3. [Criação de Conta na Meta](https://gist.github.com/iec-gpes/81af1a3191f7c6b9eb1b12bde42b8057)
 
-#####  1.4. [Configuração do Meta Quest 3](https://gist.github.com/iec-gpes/)
+#####  1.4. [Configuração do Meta Quest 3](https://gist.github.com/iec-gpes/ba0d314ea1771d14bae7fe93be860cb8)
 
-#####  1.5. [Mudança do Status da Conta para Conta de Desenvolvedor](https://gist.github.com/iec-gpes/)
+#####  1.5. [Mudança do Status da Conta para Conta de Desenvolvedor](https://gist.github.com/iec-gpes/0e3e2fe9a0f4e020434221024d641ee9)
 
 #### 2. Desenvolvimento
 
