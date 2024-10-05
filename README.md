@@ -37,7 +37,7 @@ uma opção de desenvolvimento _no-code_.
 
 - [Tutorial](https://gist.github.com/stra-uss/62344e071c8bfc5ae477df74f1d7995e)
 
-- ![MQ3 Test App] (https://gist.github.com/user-attachments/assets/5dfb8596-7dce-49e3-983b-87e410b8333b)
+- ![MQ3 Test App](assets/figs/mq3-test.gif)
 
 ##### 2.3. Oculus Quest Development from StellarX
 
