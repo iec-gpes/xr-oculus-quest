@@ -31,15 +31,21 @@ uma opção de desenvolvimento _no-code_.
 
 ##### 2.1. Oculus Quest Development from Meta SDK
 
+###### 2.1.2 - Passo a Passo de Desenvolvimento
 - [Tutorial](https://gist.github.com/iec-gpes/faced509e5b9b8ee2b5346d2712ce998)
  
 ##### 2.2. Oculus Quest Development from Unity
 
+###### 2.2.1 - Passo a Passo de Desenvolvimento
+
 - [Tutorial](https://gist.github.com/stra-uss/62344e071c8bfc5ae477df74f1d7995e)
 
+###### 2.2.2 - Resultado Final
 - ![MQ3 Test App](https://github.com/iec-gpes/xr-oculus-quest/blob/main/assets/figs/mq3-test.gif)
 
 ##### 2.3. Oculus Quest Development from StellarX
+
+###### 2.3.1 - Passo a Passo de Desenvolvimento
 
 - [Tutorial](https://gist.github.com/iec-gpes/c0b978322a4b34ea0241d0bb1d060193)
 
