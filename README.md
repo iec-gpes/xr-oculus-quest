@@ -33,19 +33,16 @@ uma opção de desenvolvimento _no-code_.
 
 - [Tutorial](https://gist.github.com/iec-gpes/faced509e5b9b8ee2b5346d2712ce998)
  
-<br>
 ##### 2.2. Oculus Quest Development from Unity
 
 - [Tutorial](https://gist.github.com/stra-uss/62344e071c8bfc5ae477df74f1d7995e)
 
-  ![MQ3 Test App](https://gist.github.com/user-attachments/assets/5dfb8596-7dce-49e3-983b-87e410b8333b)
+![MQ3 Test App](https://gist.github.com/user-attachments/assets/5dfb8596-7dce-49e3-983b-87e410b8333b)
 
-<br>
 ##### 2.3. Oculus Quest Development from StellarX
 
 - [Tutorial](https://gist.github.com/iec-gpes/c0b978322a4b34ea0241d0bb1d060193)
 
-<br>
 #### 3. Referências
 
 ##### [Meta Developers](https://developers.meta.com/)
