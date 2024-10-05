@@ -33,6 +33,10 @@ uma opção de desenvolvimento _no-code_.
 
 ###### 2.1.2 - Passo a Passo de Desenvolvimento
 - [Tutorial](https://gist.github.com/iec-gpes/faced509e5b9b8ee2b5346d2712ce998)
+
+###### 2.1.2 - Resultado Final
+
+![MQ3 Test SDK App](https://github.com/iec-gpes/xr-oculus-quest/blob/main/assets/figs/cubos-sdk-meta.png)
  
 ##### 2.2. Oculus Quest Development from Unity
 
