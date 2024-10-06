@@ -54,6 +54,10 @@ uma opção de desenvolvimento _no-code_.
 
 - [Tutorial](https://gist.github.com/iec-gpes/c0b978322a4b34ea0241d0bb1d060193)
 
+- ###### 2.3.2 - Resultado Final
+
+![StellarX Test](https://youtu.be/X4w1CwAx22I)
+
 #### 3. Referências
 
 ##### [Meta Developers](https://developers.meta.com/)
