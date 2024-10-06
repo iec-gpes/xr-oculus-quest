@@ -58,6 +58,9 @@ uma opção de desenvolvimento _no-code_.
 
 [![StellarX Test](https://img.youtube.com/vi/X4w1CwAx22I.jpg)](https://www.youtube.com/watch?v=X4w1CwAx22I "StellarX Test")
 
+[![StellarX Test](https://img.youtube.com/vi/X4w1CwAx22I/0.jpg)](https://www.youtube.com/watch?v=X4w1CwAx22I)
+
+
 #### 3. Referências
 
 ##### [Meta Developers](https://developers.meta.com/)
