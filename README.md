@@ -56,7 +56,7 @@ uma opção de desenvolvimento _no-code_.
 
 - ###### 2.3.2 - Resultado Final
 
-![StellarX Test](https://youtu.be/X4w1CwAx22I)
+[![StellarX Test](https://img.youtube.com/vi/X4w1CwAx22I.jpg)](https://www.youtube.com/watch?v=X4w1CwAx22I "StellarX Test")
 
 #### 3. Referências
 
