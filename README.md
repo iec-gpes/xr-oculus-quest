@@ -58,8 +58,7 @@ uma opção de desenvolvimento _no-code_.
 
   Clique na imagem para visualizar o vídeo.
 
-[![StellarX Test](https://img.youtube.com/vi/X4w1CwAx22I/0.jpg)](https://www.youtube.com/watch?v=X4w1CwAx22I)
-
+[![StellarX Test](https://img.youtube.com/vi/nntQRTj00BE/0.jpg)](https://www.youtube.com/watch?v=nntQRTj00BE)
 
 
 #### 3. Referências
