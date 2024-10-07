@@ -1,7 +1,8 @@
 ## xr-oculus-quest
+
 Oculus Quest Development Tutorials
 
-Este repositório, por meio de tutoriais, apresenta os passos necessários para a execução de uma aplicação em Realidade Virtual (Virtual Reality - VR) nos óculos Meta Quest 3.
+Este repositório, por meio de tutoriais, apresenta os passos necessários para o desenvolvimento e a execução de uma aplicação em Realidade Virtual (Virtual Reality - VR) nos óculos Meta Quest 3.
 
 Os seguintes tópicos serão cobertos:
 
